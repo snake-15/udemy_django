@@ -2,6 +2,7 @@
 Course https://www.udemy.com/course/python-django-dev-to-deployment/
 
 1. Install
+
 Windows:
  python -m venv prj1
  prj1\Scripts\activate.bat
