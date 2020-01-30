@@ -7,6 +7,7 @@ Windows:
  python -m venv prj1
  prj1\Scripts\activate.bat
  pip install django 
+ 
  django-admin startproject btre .\
  
  #to test webserver to work
